@@ -1,1 +1,5 @@
-<div id="error"><h1>Oops! Something went wrong.</h1><br/><p>Remember that only .jpg, .png, or .gif files are allowed.</p></div>
+<div id="error">
+  <h1>Oops! Something went wrong.</h1>
+  <br/>
+  <p>Remember that only .jpg, .png, or .gif files are allowed.</p>
+</div>
