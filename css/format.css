@@ -1,3 +1,14 @@
 .navlinksarecool:hover {
   text-decoration: overline;
 }
+#error h1 {
+  color: red;
+}
+#success h1 {
+  color: green;
+}
+.content {
+  font-size: 110%;
+  width: 80%;
+  margin: auto;
+}

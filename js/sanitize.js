@@ -8,7 +8,7 @@ function submitFile(){
     return false;
   }
   if(!match) {
-    $('#error').html("<h1>Oops! Something went wrong.</h1><br/><p>Remember that only .jpg, .png, or .gif files are allowed.</p>");
+    $('#error').html("<div id='error' class='content'><h1>Oops! Something went wrong.</h1><br/><p>Remember that only .jpg, .png, or .gif files are allowed.</p><br /></div>");
     return false;
   }
 }
