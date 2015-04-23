@@ -8,3 +8,4 @@
   <br />
   <input type="submit" class="btn btn-primary" id="submit-btn" value="Send File" />
 </form>
+<?php include 'foot.php' ?>
