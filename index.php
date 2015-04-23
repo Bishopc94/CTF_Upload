@@ -1,5 +1,3 @@
-  <?php include 'nav.php' ?>   
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.min.js"></script>
-  </body>
-</html>
+<?php include 'nav.php' ?>
+
+<?php include 'foot.php' ?>
