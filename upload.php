@@ -1,3 +1,4 @@
+<?php include 'nav.php' ?>
 <script src="js/jquery.min.js"></script>
 <script src="js/sanitize.js"></script>
 <div id="error"></div>
@@ -5,5 +6,5 @@
   <label for="userfile">Upload a file: </input>
   <input name="userfile" id="userfile" type="file" />
   <br />
-  <input type="submit" id="submit-btn" value="Send File" />
+  <input type="submit" class="btn btn-primary" id="submit-btn" value="Send File" />
 </form>
