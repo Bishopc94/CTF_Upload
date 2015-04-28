@@ -1,4 +1,4 @@
-<?php include 'nav.php' ?>
+<?php include 'head.php' ?>
 <script src="js/jquery.min.js"></script>
 <script src="js/sanitize.js"></script>
 <div id="error"></div>
